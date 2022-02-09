@@ -9,6 +9,14 @@ section {
   margin-bottom: 8em;
 }
 
+h2 {
+  width: 300px;
+  margin: 0 auto;
+  padding: .5em 1em;
+  background: black;
+  color: white;
+}
+
 .example {
   margin-top: .5em;
   margin-bottom: 2em;
